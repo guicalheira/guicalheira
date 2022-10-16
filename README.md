@@ -3,11 +3,11 @@
 
 - 📚 Atualmente tenho estudado Ruby💎🔴 e Java ☕ 
 - 🧑‍💼Procurando por Estágio 
-- 🖥️ Cursando Bacharelado em Sistema de informação no IFBA-VCA
+- 🖥️ Cursando Bacharelado em Sistema de Informação no IFBA-VCA
 - 👍 Ja tive contato com as linguagens Python , JavaScript e Html
 
 ##
-<img align="right" width="300px" src="https://static.vecteezy.com/ti/vetor-gratis/p3/2445475-jovem-programador-concentrando-se-em-tecnologias-de-programacao-e-codificacao-vetor.jpg"/>
+<img align="right" width="250px" src="https://static.vecteezy.com/ti/vetor-gratis/p3/2445475-jovem-programador-concentrando-se-em-tecnologias-de-programacao-e-codificacao-vetor.jpg"/>
 
 <div align="left" >
   <a href="https://github.com/guicalheira">
