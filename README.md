@@ -1,20 +1,20 @@
-### Oi Oi , meu nome é Guilherme  , é um prazer receber vc aqui 😊
+# Oi Oi , meu nome é Guilherme  , é um prazer receber vc aqui 😊
 
 
 - 📚 Atualmente tenho estudado Ruby💎🔴 e Java ☕ 
 - 🧑‍💼Procurando por Estágio 
 - 🖥️ Cursando Bacharelado em Sistema de informação no IFBA-VCA
 - 👍 Ja tive contato com as linguagens Python , JavaScript e Html
-- 📫 E-mail para contato : guicalheira14@gmail.com
 
-<div align="center">
+##
+
+<div align="center" >
   <a href="https://github.com/guicalheira">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicalheira&layout=compact&langs_count=7&theme=maroongold"/>
+  <img  height="150em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicalheira&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Ruby" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-  <img align="center" alt="Gui-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gui-Ruby" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
+  <img align="center" alt="Gui-Java" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
 
 ##
