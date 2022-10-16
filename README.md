@@ -7,7 +7,7 @@
 - 👍 Ja tive contato com as linguagens Python , JavaScript e Html
 
 ##
-<img align="right" width="400px" src="https://static.vecteezy.com/ti/vetor-gratis/p3/2445475-jovem-programador-concentrando-se-em-tecnologias-de-programacao-e-codificacao-vetor.jpg"/>
+<img align="right" width="300px" src="https://static.vecteezy.com/ti/vetor-gratis/p3/2445475-jovem-programador-concentrando-se-em-tecnologias-de-programacao-e-codificacao-vetor.jpg"/>
 
 <div align="left" >
   <a href="https://github.com/guicalheira">
