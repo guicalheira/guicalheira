@@ -5,6 +5,8 @@
 - 🧑‍💼Procurando por Estágio 
 - 🖥️ Cursando Bacharelado em Sistema de Informação no IFBA-VCA
 - 👍 Ja tive contato com as linguagens Python , JavaScript e Html
+- ✉️ Email para contato : guicalheira14@gmail.com
+
 
 ##
 <img align="right" width="250px" src="https://static.vecteezy.com/ti/vetor-gratis/p3/2445475-jovem-programador-concentrando-se-em-tecnologias-de-programacao-e-codificacao-vetor.jpg"/>
@@ -26,6 +28,5 @@
 </div>
 <a href=https://www.instagram.com/calheira_gui/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href= target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guicalheira14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
