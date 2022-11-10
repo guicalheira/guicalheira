@@ -1,10 +1,10 @@
 ## Oi Oi , meu nome é Guilherme  , é um prazer receber vc aqui 😊
 
 
-- 📚 Atualmente tenho estudado Ruby💎🔴 e Java ☕ 
+- 📚 Atualmente tenho estudado Ruby💎🔴, Java ☕ e JavaScript
 - 🧑‍💼Procurando por Estágio 
 - 🖥️ Cursando Bacharelado em Sistema de Informação no IFBA-VCA
-- 👍 Ja tive contato com as linguagens Python , JavaScript e Html
+- 👍 Ja tive contato com as linguagens Python, Css e Html
 - ✉️ Email para contato : guicalheira14@gmail.com
 
 
