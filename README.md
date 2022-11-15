@@ -21,6 +21,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Ruby" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   <img align="center" alt="Gui-Java" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gui-Java" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
