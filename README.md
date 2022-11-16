@@ -1,10 +1,10 @@
 ## Oi Oi , meu nome é Guilherme  , é um prazer receber vc aqui 😊
 
 
-- 📚 Atualmente tenho estudado Ruby💎🔴, Java ☕ e JavaScript
+- 📚 Atualmente tenho estudado  Java ☕, JavaScript, ReactJs, Html, CSS
 - 🧑‍💼Procurando por Estágio 
 - 🖥️ Cursando Bacharelado em Sistema de Informação no IFBA-VCA
-- 👍 Ja tive contato com as linguagens Python, Css e Html
+- 👍 Ja tive contato com as linguagens Python,Ruby
 - ✉️ Email para contato : guicalheira14@gmail.com
 
 
@@ -19,9 +19,12 @@
   <img  height="150em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicalheira&layout=count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Ruby" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-  <img align="center" alt="Gui-Java" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Gui-Java" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-Ruby" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
+  <img align="center" alt="Gui-Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gui-CSS"height="60" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Gui-JS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"">
+  <img align="center" alt="Gui-HTML"height="60" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt ="Gui-React" height= "60" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
 
 ##
