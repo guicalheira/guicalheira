@@ -1,7 +1,7 @@
 ## Oi Oi , meu nome é Guilherme  , é um prazer receber vc aqui 😊
 
 
-- 📚 Atualmente tenho estudado  Java ☕, JavaScript, ReactJs, Html, CSS
+- 📚 Atualmente tenho estudado  Java , JavaScript, ReactJs, Html, CSS
 - 🧑‍💼Procurando por Estágio 
 - 🖥️ Cursando Bacharelado em Sistema de Informação no IFBA-VCA
 - 👍 Ja tive contato com as linguagens Python,Ruby
