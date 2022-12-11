@@ -13,7 +13,7 @@
 
 <div align="left" >
   <a href="https://github.com/guicalheira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guicalheira&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guicalheira&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
   <div align="left" >
   <a href="https://github.com/guicalheira">
   <img  height="230em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicalheira&langs_count=7&theme=algolia"/>
