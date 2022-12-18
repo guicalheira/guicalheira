@@ -4,7 +4,7 @@
 - 📚 Atualmente tenho estudado  Java , JavaScript, ReactJs, Html, CSS
 - 🧑‍💼Procurando por Estágio 
 - 🖥️ Cursando Bacharelado em Sistema de Informação no IFBA-VCA
-- 👍 Ja tive contato com as linguagens Python,Ruby
+- 👍 Ja tive contato com as linguagens Python,Ruby, C#
 - ✉️ Email para contato : guicalheira14@gmail.com
 
 
