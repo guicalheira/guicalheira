@@ -9,7 +9,7 @@
 
 
 ##
-<img align="right" width="250px" src="[https://static.vecteezy.com/ti/vetor-gratis/p3/2445475-jovem-programador-concentrando-se-em-tecnologias-de-programacao-e-codificacao-vetor.jpg](https://i.pinimg.com/564x/fd/02/74/fd0274f102f61ca3028a940445f46e14.jpg)"/>
+<img align="right" width="250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjoaoprogramador.com.br%2F&psig=AOvVaw21pmCKNgaDUwxQ0vFzgRQp&ust=1696548669298000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMimm7jG3YEDFQAAAAAdAAAAABAF"/>
 
 <div align="left" >
   <a href="https://github.com/guicalheira">
